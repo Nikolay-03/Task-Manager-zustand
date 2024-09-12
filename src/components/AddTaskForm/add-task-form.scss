@@ -1,0 +1,19 @@
+.add__form{
+  width: 80%;
+  margin-top: 10vh;
+  input{
+    width: 80%;
+    padding: 10px;
+    font-size: 20px;
+    background: transparent;
+    border:1px solid white;
+    border-radius: 7px;
+    color: white;
+  }
+  &__content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+}
